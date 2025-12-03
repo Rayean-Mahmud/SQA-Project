@@ -1,4 +1,4 @@
-# 🐞 Bug Report — Front=end Validation Error Message are not showing appropriately on Registration Page
+# 🐞 Bug Report — Front-end Validation Error Message are not showing appropriately on Registration Page
 
 **Project:** Drishti Learing App  
 **Module:** Registration Page    
@@ -22,7 +22,9 @@
 ---
 
 ## Bug Summary
-The **Front-end error message are not visible** below Name, Mobile and Password when user tries to register by only entering email address.
+
+The **Front-end validation error message are not visible appropriately ** below Name, Mobile and Password when user tries to register by only entering email address. 
+
 ---
 
 ## Preconditions
