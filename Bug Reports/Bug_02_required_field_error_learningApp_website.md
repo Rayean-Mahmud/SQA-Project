@@ -1,4 +1,4 @@
-# 🐞 Bug Report — All required fields are not marked with asterisk (*) on Registration Page
+## 🐞 Bug Report — All required fields are not marked with asterisk (*) on Registration Page
 
 **Project:** Drishti Learing App  
 **Module:** Registration Page    
@@ -24,6 +24,7 @@
 ## Bug Summary
 
  All required fields are not marked with asterisk (*) on the Registration Page
+ 
 ---
 
 ## Preconditions
@@ -60,7 +61,7 @@ All required fields are not marked with asterisk (*) on the Registration Page an
 ---
 
 ## Attachments
-![check if asterisk is present on the required field](no_asterisk_on_required_field.png)
+![check if asterisk is present on the required field](screenshots/no_asterisk_on_required_field.png)
 
 
 ---
