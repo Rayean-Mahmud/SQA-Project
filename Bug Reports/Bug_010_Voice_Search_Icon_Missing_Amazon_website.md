@@ -65,8 +65,3 @@ The **voice search icon is missing** from the Amazon homepage search bar.
 
 ---
 
-## 🏷️ Additional Notes
-- Issue reproduced across multiple browsers and devices.  
-- May be a regional feature or temporarily disabled UI component.  
-- No relevant console errors found.
-
