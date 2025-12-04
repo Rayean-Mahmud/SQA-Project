@@ -45,7 +45,7 @@ Included details:
 - Expected Result
 - Actual Result  
 - Severity & Priority    
-- Screenshots (if applicable)  
+- Screenshots
 - Reported By & Date 
 
 ---
@@ -94,6 +94,6 @@ This SQA repository demonstrates:
 ## 👨‍💻 Author
 
 **Rayean Mahmud Arnob**  
-SQA Enthusiasr | Lifelong Learner  
+SQA Enthusiast | Lifelong Learner  
 
 ---
