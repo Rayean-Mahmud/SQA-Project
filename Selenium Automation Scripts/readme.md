@@ -1,4 +1,4 @@
-# Selenium Scripts
+# 💻 Selenium Scripts
 
 This folder includes **Selenium automation scripts** designed to perform web tasks, such as:
 
