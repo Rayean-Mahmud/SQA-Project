@@ -130,7 +130,8 @@ This SQA repository demonstrates:
 
 ## 👨‍💻 Author
 
-**Rayean Mahmud Arnob**  
-SQA Enthusiast | Lifelong Learner  
+  <b>Rayean Mahmud Arnob</b><br>
+  <em>SQA Enthusiast • Lifelong Learner</em>
+
 
 ---
