@@ -53,7 +53,7 @@ It includes:
 ---
 
 
-## 🐞 Bug Reports
+## 🐞 [Bug Reports](./Bug%20Reports/)
 Included details:
 
 - Bug ID & Title
@@ -69,7 +69,7 @@ Included details:
 
 ---
 
-## 💻 Selenium Automation Scripts
+## 💻 [Selenium Automation Scripts](./Selenium%20Automation%20Scripts/README.md) 
 
 The **Selenium Automation Scripts** folder contains automation scripts built using **Python and Selenium** to demonstrate real-world web automation workflows. These scripts automate actions such as:
 
@@ -85,7 +85,7 @@ The **Selenium Automation Scripts** folder contains automation scripts built usi
 
 ---
 
-## 🧪 Test Cases
+## 🧪 [Test Cases](./Test%20Cases/)
 
 The Excel file contains all test cases designed for this project.
 
@@ -93,8 +93,8 @@ Each test case includes:
 
 - Modules/Feature 
 - Test Case ID  
-- Test cae descriptions
-- section/path  
+- Test Case Descriptions
+- Section/Path  
 - Preconditions  
 - Test Steps  
 - Test Data  
