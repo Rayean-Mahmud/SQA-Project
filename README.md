@@ -69,7 +69,7 @@ Included details:
 
 ---
 
-## 💻 [Selenium Automation Scripts](./Selenium%20Automation%20Scripts/README.md) 
+## 💻 [Selenium Automation Scripts](https://github.com/Rayean-Mahmud/SQA-Project/tree/main/Selenium%20Automation%20Scripts)
 
 The **Selenium Automation Scripts** folder contains automation scripts built using **Python and Selenium** to demonstrate real-world web automation workflows. These scripts automate actions such as:
 
