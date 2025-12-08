@@ -8,7 +8,7 @@
 [![Markdown](https://img.shields.io/badge/Markdown-Docs-blue?logo=markdown)](https://www.markdownguide.org/)
 
 
-A complete **Software Quality Assurance (SQA) project** showcasing professional **test case design**, **bug reporting**, **automation scripts** and **QA documentation practices**. This repository provides a structured approach to manual testing and QA documentation for learning, portfolio, or professional reference.
+A complete **Software Quality Assurance (SQA) project** showcasing professional **test case design**, **bug reporting**, **automation scripts** and **QA documentation practices**. This repository provides a structured approach to manual testing, automation testing and QA documentation for learning, portfolio, or professional reference.
 
 > ⚡ **Future Enhancements:**  
 > More Automation test scripts (Selenium/Appium), additional modules, traceability matrices and test summary reports will be added in future updates.
