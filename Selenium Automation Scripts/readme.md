@@ -1,4 +1,4 @@
-# Selenium Automation Script
+# Selenium Script
 
 This folder includes **Selenium automation script** designed to perform web tasks, such as searching for products, interacting with items, and adding them to the cart on platforms like Amazon. The script showcase **Python-based web automation using Selenium**.
 
