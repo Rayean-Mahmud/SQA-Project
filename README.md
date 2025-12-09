@@ -122,7 +122,7 @@ This SQA repository demonstrates:
 - Test Case Design  
 - Bug Reporting  
 - Excel for Test Cases
-- Selenium Web Automation
+- Selenium Web Automation (Python)
 - Markdown for Documentation  
 - Black-Box Testing Techniques  
 
